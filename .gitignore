@@ -1,0 +1,6 @@
+roms
+emulator
+*.pyc
+NOTES.md
+combined.js
+combined.min.js
